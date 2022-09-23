@@ -221,4 +221,4 @@ Lastly every team member should run `git pull` to retrieve the remote repository
 ## Questions to Answer
 
 - How do git and GitHub allow us to collaborate on a project?
-- What is a _merge conflict_?
+- What is a _merge conflict_
