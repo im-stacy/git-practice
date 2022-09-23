@@ -3,7 +3,7 @@ def merge_lists(list_a, list_b):
         a combination of list_a and list_b
         without any duplicate elements.
     """
-    print("Hellooo")
+    print("Ada!")
     return list(set(list_a) | set(list_b))
 
 
